@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>My Notebook</title>
+
+
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/smicon.png">
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/css/style.css" rel="stylesheet">
+    <link href="assets/css/responsive.css" rel="stylesheet">
+
+</head>
+<body>
+
+    <header id="masthead" class="site-header" data-anchor-target=".hero" data-top="background: rgba(255,255,255,0); padding: 30px 0; box-shadow: 0px 0px 20px 6px rgba(0, 0, 0, 0);" data-top-bottom="background: rgba(255,255,255,1); padding: 10px 0; box-shadow: 0px 0px 20px 6px rgba(0, 0, 0, 0.2);">
+        <nav id="primary-navigation" class="site-navigation">
+            <div class="container">
+                <div class="navbar-nav navbar-left">
+
+                    <button type="button" class="navbar-toggle collapsed" data-target="#portfolio-perfect-collapse" aria-expanded="false" >
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    
+                    <a href="#hero" class="site-logo"><img src="assets/img/logo_1.png" alt="logo"></a>
+
+                </div><!-- /.navbar-header -->
+
+                <div class="main-menu" >
+
+                    <ul class="nav navbar-nav navbar-right">
+
+                        <li class="page-scroll"><a href="#hero">Home</a></li>
+                        <li class="page-scroll"><a href="#about">About</a></li>
+                        <li class="page-scroll"><a href="#service">Skills</a></li>
+                        <li class="page-scroll"><a href="#portfolio">Works</a></li>
+                        <li class="page-scroll"><a href="#contact">Contact</a></li>
+                        
+                    </ul><!-- /.navbar-nav -->
+
+                </div><!-- /.navbar-collapse -->
+
+            </div>
+        </nav><!-- /.primary-navigation -->
+    </header><!-- /#header -->
+
+    <div id="hero" class="hero">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-md-6">
+                    <h1>Khalid Ramber</h1>
+                    <div class="page-scroll">
+                        <p class="job-title">Student-Graphic Designer</p>
+                        <a href="#contact" class="btn btn-fill ">Recruit me</a>
+                        <div class="clearfix visible-xxs"></div>
+                        <a href="#portfolio" class="btn btn-border">Know my works</a>
+                    </div>
+                </div>
+            
+                <div class="col-md-6 text-right">
+                    <img src="assets/img/khalid.jpg" alt="khalid.ramber">
+                </div>
+
+            </div>
+        </div>
+    </div><!-- /.hero -->
+
+    <main id="main" class="site-main">
+
+        <section id="about" class="site-section section-about text-center">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 col-md-offset-3">
+                        <h2>About Me</h2>
+                        <img src="assets/img/lines.svg" class="img-lines" alt="lines">
+                        <p>Hello, welcome to my website! I'm Khalid Ramber, a third year college student taking up BS Information Systems, a photo and videogpraher, and as well as an editor. I have been introduced to programming using Java language upong entering college. As well as creating websites as we are introduced to HTML, CSS, and JS. If you need help and needs my service then I am willing to do it. If you want to know more about me then take time to scroll. Thank you. ☺</p>
+                        <a href="http://www.facebook.com/khalidramber24" class="btn btn-fill" target="_blank" download>Visit my account</a>
+                    </div>
+                </div>
+            </div>
+        </section><!-- /.secton-about -->
+
+	<section id="about" class="site-section section-achievements text-center">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 col-md-offset-3">
+                        <h2>Interests</h2>
+                        <img src="assets/img/lines.svg" class="img-lines" alt="lines">
+                        <p>Video Games || League of Legends, Fortnite, Valorant, The Sims 4, Cities: Skylines, GTA Series<p>
+			<p>Art || Loves to dance, Taking Pictures, Shooting Videos, Graphic Design and Art, Photoshop<p>
+			<p>Music || Pop, OPM, K-Pop, and J-Pop<p>
+			<p>Pet Care || Taking care of our dog named Toby and cats<p>
+			</div>
+                </div>
+            </div>
+        </section><!-- /.secton-achievements -->
+
+
+<section id="service" class="site-section section-services overlay text-center">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h3>Education</h3>
+                        <img src="assets/img/lines.svg" class="img-lines" alt="lines">
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="service">
+                            <h4>Elementary</h4>
+                            <p>Sapad Central Elementary School 2006-2012</p>
+			    <p>- - - - -</p>
+			    <p>San Pedro Central Elementary School 2008-2009</p>
+                        </div><!-- /.service -->
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="service">
+                            <h4>High School</h4>
+                            <p>Geronima Cabrera National High School 2012-2016</p>
+			    <p>- - - - -</p>
+			    <p>Geronima Cabrera Senior High School 2016-2018</p></div><!-- /.service -->
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="service">
+                            <h4>College</h4>
+                            <p>Mindanao State of University - Iligan Institute of Technology<p>
+			    <p>2018-Present<p>
+			    </div><!-- /.service -->
+                    </div>
+                </div>
+            </div>
+        </section><!-- /.secton-services -->
+
+
+	<section id="about" class="site-section section-achievements text-center">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 col-md-offset-3">
+                        <h2>Achievements</h2>
+                        <img src="assets/img/lines.svg" class="img-lines" alt="lines">
+                        <p>Class Honors 2006 || Photjournalism - Third Placer 2015<p>
+			<p>Volunteer of the Year (Local) 2016 || Best in Research 2018<p>
+			<p>Leadership Award 2018 || Chancellor's List 2019<p>
+			</div>
+                </div>
+            </div>
+        </section><!-- /.secton-achievements -->
+
+
+
+
+        <section class="site-section section-skills">
+            <div class="container">
+                <div class="text-center">
+                    <h3>Computer Skills</h3>
+                    <img src="assets/img/lines.svg" class="img-lines" alt="lines">
+                </div>
+		<div class="text-center">
+                    <div class="col-md-4">
+                        <div class="skill">
+                            <h4>Encoding</h4>
+                        </div><!-- /.skill -->
+                        <div class="skill">
+                            <h4>Photo/Videography</h4>
+                        </div><!-- /.skill -->
+		    <div class="skill">
+                            <h4>Programming</h4>
+                        </div><!-- /.skill -->
+                    </div>
+                    <div class="col-md-4">
+                        <div class="skill">
+                            <h4>Photo/Video Editing</h4>
+                        </div><!-- /.skill -->
+                        <div class="skill">
+                            <h4>Graphic Design</h4>
+                        </div><!-- /.skill -->
+                    </div>
+                    <div class="col-md-4">
+                        <div class="skill">
+                            <h4>Operating Systems</h4>
+                        </div><!-- /.skill -->
+                        <div class="skill">
+                            <h4>Web Developing</h4>
+                        </div><!-- /.skill -->
+		<div class="skill">
+                            <h4>Social Media</h4>
+                        </div><!-- /.skill -->
+                    </div>
+		 
+	    </div>
+        </section><!-- /.secton-skills -->
+
+<section class="site-section section-skills">
+            <div class="container">
+                <div class="text-center">
+                    <h3>Communication Skills</h3>
+                    <img src="assets/img/lines.svg" class="img-lines" alt="lines">
+                </div>
+                <div class="text-center">
+                    <div class="col-md-4">
+                        <div class="skill">
+                            <h4>Speaking</h4>
+                        </div><!-- /.skill -->
+                        <div class="skill">
+                            <h4>Listening</h4>
+                        </div><!-- /.skill -->
+                    </div>
+                    <div class="col-md-4">
+                        <div class="skill">
+                            <h4>Presenting</h4>
+                        </div><!-- /.skill -->
+                        <div class="skill">
+                            <h4>Team Building</h4>
+                        </div><!-- /.skill -->
+		    <div class="skill">
+                            <h4>Leadership</h4>
+                        </div><!-- /.skill -->
+                    </div>
+                    <div class="col-md-4">
+                        <div class="skill">
+                            <h4>Providing Feedback</h4>
+                        </div><!-- /.skill -->
+                        <div class="skill">
+                            <h4>Accepting Feedback</h4>
+                        </div><!-- /.skill -->
+                    </div>
+		</div>
+                </div>
+		</div>
+        </section><!-- /.secton-skills -->
+
+
+        <section id="service" class="site-section section-services overlay text-center">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h3>Work Experience</h3>
+                        <img src="assets/img/lines.svg" class="img-lines" alt="lines">
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="service">
+                            <h4>Office Clerk</h4>
+                            <p>Senior High School Work Immersion<p>
+			    <p> - - - - -<p>
+		            <p>Kolambugan Treasury Office 2018<p>
+			</div><!-- /.service -->
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="service">
+                            <h4>System Developer</h4>
+                            <p>IT Infrastructure and Network Technologies<p>
+			    <p> - - - - -<p>
+		            <p>Mindanao State University - Iligan Institute of Technology 2018<p>
+			</div><!-- /.service -->
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="service">
+                            <h4>Website Developer</h4>
+                            <p>Requirements Engineering Project (Front and Back-end Developer<p><p> - - - - -<p>
+		            <p>Mindanao State University - Iligan Institute of Technology 2018<p>
+			</div><!-- /.service -->
+                    </div>
+                </div>
+            </div>
+        </section><!-- /.secton-services -->
+
+        <section id="portfolio" class="site-section section-portfolio">
+            <div class="container">
+                <div class="text-center">
+                    <h3>Works</h3>
+                    <img src="assets/img/lines.svg" class="img-lines" alt="lines">
+                </div>
+                <div class="row">
+                    <div class="col-md-4 col-xs-6">
+                        <div class="portfolio-item">
+                            <img src="assets/img/portfolio-1.jpg" class="img-res" alt="">
+                            <div class="portfolio-item-info">
+                                <h4>Banner Layout</h4>
+                            </div><!-- /.portfolio-item-info -->
+                        </div><!-- /.portfolio-item -->
+                    </div>
+                    <div class="col-md-4 col-xs-6">
+                        <div class="portfolio-item">
+                            <img src="assets/img/portfolio-2.jpg" class="img-res" alt="">
+                            <div class="portfolio-item-info">
+                                <h4>Dead Stars - Short Film Project</h4>
+                                <a href="https://www.facebook.com/khalidramber24/videos/919956904777455" data-toggle="modal" data-target="#portfolioItem2"><span class="glyphicon glyphicon-eye-open"></span></a>
+                                </div><!-- /.portfolio-item-info -->
+                        </div><!-- /.portfolio-item -->
+                    </div>
+                    <div class="col-md-4 col-xs-6">
+                        <div class="portfolio-item">
+                            <img src="assets/img/portfolio-3.png" class="img-res" alt="">
+                            <div class="portfolio-item-info">
+                                <h4>Cebuana Dance Cover</h4>
+                                <a href="https://www.facebook.com/khalidramber24/videos/1294672247305917" data-toggle="modal" data-target="#portfolioItem3"><span class="glyphicon glyphicon-eye-open"></span></a>
+                             </div><!-- /.portfolio-item-info -->
+                        </div><!-- /.portfolio-item -->
+                    </div>
+                    <div class="col-md-4 col-xs-6">
+                        <div class="portfolio-item">
+                            <img src="assets/img/portfolio-4.png" class="img-res" alt="">
+                            <div class="portfolio-item-info">
+                                <h4>Senior High School Infomercial</h4>
+                                <a href="https://www.facebook.com/khalidramber24/videos/953313458108466" data-toggle="modal" data-target="#portfolioItem4"><span class="glyphicon glyphicon-eye-open"></span></a>
+                                </div><!-- /.portfolio-item-info -->
+                        </div><!-- /.portfolio-item -->
+                    </div>
+                    <div class="col-md-4 col-xs-6">
+                        <div class="portfolio-item">
+                            <img src="assets/img/portfolio-5.png" class="img-res" alt="">
+                            <div class="portfolio-item-info">
+                                <h4>GCNHS School Advertisement</h4>
+                                <a href="https://www.facebook.com/khalidramber24/videos/924078227698656" data-toggle="modal" data-target="#portfolioItem5"><span class="glyphicon glyphicon-eye-open"></span></a>
+                                 </div><!-- /.portfolio-item-info -->
+                        </div><!-- /.portfolio-item -->
+                    </div>
+                    <div class="col-md-4 col-xs-6">
+                        <div class="portfolio-item">
+                            <img src="assets/img/portfolio-6.png" class="img-res" alt="">
+                            <div class="portfolio-item-info">
+                                <h4>Kolambugan Tourism Video</h4>
+                                <a href="https://www.facebook.com/khalidramber24/videos/878481638924982" data-toggle="modal" data-target="#portfolioItem6"><span class="glyphicon glyphicon-eye-open"></span></a>
+                                </div><!-- /.portfolio-item-info -->
+                        </div><!-- /.portfolio-item -->
+                    </div>
+                </div>
+            </div>
+        </section><!-- /.secton-portfolio -->
+
+   
+        <section id="contact" class="site-section section-form text-center">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 col-md-offset-3">
+                        <h2>Contact Me</h2>
+                        <img src="assets/img/lines.svg" class="img-lines" alt="lines">
+                        <p>khalid.ramber@g.msuiit.edu.ph<p>
+			<p>Purok 6-Libertad Kolambugan, Lanao del Norte<p>
+			<p>09382792412 || 222-1319<p>
+			</div>
+                </div>
+            </div>
+	 </section><!-- /.section-form -->
+
+
+    </main><!-- /#main -->
+
+    <div id="portfolioItem1" class="modal fade" role="dialog">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <a class="close" data-dismiss="modal"><span class="glyphicon glyphicon-remove"></span></a>
+            <img class="img-res" src="assets/img/portfolio-1.jpg" alt="">
+          </div>
+          <div class="modal-body">
+            <h4 class="modal-title">Banner Layout</h4>
+            <p></p>
+	  </div>
+          <div class="modal-footer">
+            <a href="https://www.facebook.com/Geronimacabreranationalhighschool" class="btn btn-fill">Visit Page</a>
+          </div>
+        </div><!-- /.modal-content -->
+      </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+    <div id="portfolioItem2" class="modal fade" role="dialog">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <a class="close" data-dismiss="modal"><span class="glyphicon glyphicon-remove"></span></a>
+            <img class="img-res" src="assets/img/portfolio-2.jpg" alt="">
+          </div>
+          <div class="modal-body">
+            <h4 class="modal-title">Dead Stars - Short Film Project</h4>
+            <p></p>
+	  </div>
+          <div class="modal-footer">
+            <a href="https://www.facebook.com/khalidramber24/videos/919956904777455" class="btn btn-fill">Visit Page</a>
+          </div>
+        </div><!-- /.modal-content -->
+      </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+    <div id="portfolioItem3" class="modal fade" role="dialog">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <a class="close" data-dismiss="modal"><span class="glyphicon glyphicon-remove"></span></a>
+            <img class="img-res" src="assets/img/portfolio-3.png" alt="">
+          </div>
+          <div class="modal-body">
+            <h4 class="modal-title">Cebuana Dance Cover</h4>
+            <p></p>
+	  </div>
+          <div class="modal-footer">
+            <a href="https://www.facebook.com/khalidramber24/videos/1294672247305917" class="btn btn-fill">Visit Page</a>
+          </div>
+        </div><!-- /.modal-content -->
+      </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+    <div id="portfolioItem4" class="modal fade" role="dialog">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <a class="close" data-dismiss="modal"><span class="glyphicon glyphicon-remove"></span></a>
+            <img class="img-res" src="assets/img/portfolio-4.png" alt="">
+          </div>
+          <div class="modal-body">
+            <h4 class="modal-title">Senior High School Infomercial</h4>
+            <p></p>
+	  </div>
+          <div class="modal-footer">
+            <a href="https://www.facebook.com/khalidramber24/videos/953313458108466" class="btn btn-fill">Visit Page</a>
+          </div>
+        </div><!-- /.modal-content -->
+      </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+    <div id="portfolioItem5" class="modal fade" role="dialog">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <a class="close" data-dismiss="modal"><span class="glyphicon glyphicon-remove"></span></a>
+            <img class="img-res" src="assets/img/portfolio-5.png" alt="">
+          </div>
+          <div class="modal-body">
+            <h4 class="modal-title">GCNHS School Advertisement</h4>
+            <p></p>
+	  </div>
+          <div class="modal-footer">
+            <a href="https://www.facebook.com/khalidramber24/videos/924078227698656" class="btn btn-fill">Visit Page</a>
+          </div>
+        </div><!-- /.modal-content -->
+      </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+    <div id="portfolioItem6" class="modal fade" role="dialog">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <a class="close" data-dismiss="modal"><span class="glyphicon glyphicon-remove"></span></a>
+            <img class="img-res" src="assets/img/portfolio-6.png" alt="">
+          </div>
+          <div class="modal-body">
+            <h4 class="modal-title">Kolambugan Tourism Video</h4>
+            <p></p>
+	  </div>
+          <div class="modal-footer">
+            <a href="https://www.facebook.com/khalidramber24/videos/878481638924982" class="btn btn-fill">Visit Page</a>
+          </div>
+        </div><!-- /.modal-content -->
+      </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+  
+</body>
+</html>
