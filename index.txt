@@ -80,7 +80,7 @@
                     <div class="col-md-6 col-md-offset-3">
                         <h2>About Me</h2>
                         <img src="assets/img/lines.svg" class="img-lines" alt="lines">
-                        <p>Hello, welcome to my website! I'm Khalid Ramber, a third year college student taking up BS Information Systems, a photo and videogpraher, and as well as an editor. I have been introduced to programming using Java language upong entering college. As well as creating websites as we are introduced to HTML, CSS, and JS. If you need help and needs my service then I am willing to do it. If you want to know more about me then take time to scroll. Thank you. ☺</p>
+                        <p>Hello, welcome to my website! I'm Khalid Ramber, a third year college student taking up BS Information Systems, a photo and videographer, and as well as an editor. I have been introduced to programming using Java language upon entering college. As well as creating websites as we are introduced to HTML, CSS, and JS. If you need help and needs my service then I am willing to do it. If you want to know more about me then take time to scroll. Thank you. ☺</p>
                         <a href="http://www.facebook.com/khalidramber24" class="btn btn-fill" target="_blank" download>Visit my account</a>
                     </div>
                 </div>
